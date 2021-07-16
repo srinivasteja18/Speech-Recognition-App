@@ -1,3 +1,3 @@
 # Speech-Recognition-App
 
-This application basically recognizes the speech and writes down the word as paragraph tags and displays to the user.
+This application recognizes the speech from user and appends the words as paragraph tags and displays to the user.
