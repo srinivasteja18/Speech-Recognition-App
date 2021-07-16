@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    top:0;
+    bottom: 0;
+    background-color: rgb(19, 5, 32);
+    display: flex;
+    flex-direction: column;
+}
+.card{
+    position: relative;
+    width: 70vw;
+    margin: 5em auto;
+    word-wrap:break-word;
+    background-color: white;
+    
+}
+p{
+    margin: 1em;
+    font-size: 1em;
+    font-family: 'Segoe UI';
+    display: flex;
+    word-break: break-all
+}
